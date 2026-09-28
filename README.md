@@ -1,6 +1,6 @@
 # Awesome-Commodity-Risk-Management
 
-# Top Commodity Risk Management Platforms Ecosystem
+## Top Commodity Risk Management Platforms Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on CTRM/ETRM, Commodity Trading Risk, Position Management, Valuation, Credit Risk & Energy/Softs Trading Systems*
 **Last updated: September 2026**
