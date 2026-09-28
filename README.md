@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Commodity-Risk-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Commodity-Risk-Management?style=flat-square&logo=github" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Commodity-Risk-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Commodity-Risk-Management?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Commodity-Risk-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Commodity-Risk-Management?style=flat-square&logo=github" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Commodity-Risk-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Commodity-Risk-Management?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,42 +59,42 @@ The commercial CTRM/ETRM market is built around complex requirements such as phy
 
 While end-to-end production CTRM/ETRM systems are predominantly commercial due to accounting and regulatory complexity, open-source libraries provide critical building blocks for quantitative valuation, volatility curve modeling, power system dispatch, and portfolio risk optimization.
 
-*List sorted by **GitHub Stars** in descending order:*
+*List sorted by **GitHub_Stars** in descending order:*
 
-1. **[SciPy](https://github.com/scipy/scipy)** — [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers)  
+1. **[SciPy](https://github.com/scipy/scipy)** — [![GitHub_Stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers)  
    *Fundamental algorithms for scientific computing, interpolation, optimization, and numerical integration used in commodity curve building and pricing algorithms.*
 
-2. **[statsmodels](https://github.com/statsmodels/statsmodels)** — [![GitHub stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=social&color=white)](https://github.com/statsmodels/statsmodels/stargazers)  
+2. **[statsmodels](https://github.com/statsmodels/statsmodels)** — [![GitHub_Stars](https://img.shields.io/github/stars/statsmodels/statsmodels?style=social&color=white)](https://github.com/statsmodels/statsmodels/stargazers)  
    *Comprehensive statistical modeling, linear regression, time-series analysis (ARIMA, VAR), and econometric tools for commodity price forecasting and cointegration testing.*
 
-3. **[QuantLib](https://github.com/lballabio/QuantLib)** — [![GitHub stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers)  
+3. **[QuantLib](https://github.com/lballabio/QuantLib)** — [![GitHub_Stars](https://img.shields.io/github/stars/lballabio/QuantLib?style=social&color=white)](https://github.com/lballabio/QuantLib/stargazers)  
    *The gold standard open-source quantitative finance library for derivatives pricing, term-structure curve construction, yield curves, and Monte Carlo simulation adaptable to commodity options.*
 
-4. **[CVXPY](https://github.com/cvxpy/cvxpy)** — [![GitHub stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers)  
+4. **[CVXPY](https://github.com/cvxpy/cvxpy)** — [![GitHub_Stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers)  
    *Domain-specific language for convex optimization in Python, widely applied in commodity storage scheduling, inventory optimization, and portfolio hedging.*
 
-5. **[Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib)** — [![GitHub stars](https://img.shields.io/github/stars/dcajasn/Riskfolio-Lib?style=social&color=white)](https://github.com/dcajasn/Riskfolio-Lib/stargazers)  
+5. **[Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib)** — [![GitHub_Stars](https://img.shields.io/github/stars/dcajasn/Riskfolio-Lib?style=social&color=white)](https://github.com/dcajasn/Riskfolio-Lib/stargazers)  
    *Quantitative portfolio optimization library in Python featuring Mean-Risk, Risk Parity, CVaR, and downside risk metrics suitable for physical/financial commodity portfolios.*
 
-6. **[finmarketpy](https://github.com/cuemacro/finmarketpy)** — [![GitHub stars](https://img.shields.io/github/stars/cuemacro/finmarketpy?style=social&color=white)](https://github.com/cuemacro/finmarketpy/stargazers)  
+6. **[finmarketpy](https://github.com/cuemacro/finmarketpy)** — [![GitHub_Stars](https://img.shields.io/github/stars/cuemacro/finmarketpy?style=social&color=white)](https://github.com/cuemacro/finmarketpy/stargazers)  
    *Python framework for backtesting market trading strategies, analyzing financial time series, and evaluating commodity trend-following models.*
 
-7. **[PyPSA](https://github.com/PyPSA/PyPSA)** — [![GitHub stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social&color=white)](https://github.com/PyPSA/PyPSA/stargazers)  
+7. **[PyPSA](https://github.com/PyPSA/PyPSA)** — [![GitHub_Stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social&color=white)](https://github.com/PyPSA/PyPSA/stargazers)  
    *Python for Power System Analysis — open toolbox for simulating and optimizing modern power networks, generation dispatch, capacity expansion, and power market electricity risk.*
 
-8. **[arch](https://github.com/bashtage/arch)** — [![GitHub stars](https://img.shields.io/github/stars/bashtage/arch?style=social&color=white)](https://github.com/bashtage/arch/stargazers)  
+8. **[arch](https://github.com/bashtage/arch)** — [![GitHub_Stars](https://img.shields.io/github/stars/bashtage/arch?style=social&color=white)](https://github.com/bashtage/arch/stargazers)  
    *Autoregressive Conditional Heteroskedasticity (ARCH/GARCH) and unit root models in Python for modeling commodity market volatility clustering and Value-at-Risk (VaR).*
 
-9. **[pandapower](https://github.com/e2nIEE/pandapower)** — [![GitHub stars](https://img.shields.io/github/stars/e2nIEE/pandapower?style=social&color=white)](https://github.com/e2nIEE/pandapower/stargazers)  
+9. **[pandapower](https://github.com/e2nIEE/pandapower)** — [![GitHub_Stars](https://img.shields.io/github/stars/e2nIEE/pandapower?style=social&color=white)](https://github.com/e2nIEE/pandapower/stargazers)  
    *Convenient power system modeling and power flow calculation tool combining pandas data structures with PYPOWER solvers for grid and energy risk research.*
 
-10. **[Open Source Risk Engine (ORE)](https://github.com/OpenSourceRisk/Engine)** — [![GitHub stars](https://img.shields.io/github/stars/OpenSourceRisk/Engine?style=social&color=white)](https://github.com/OpenSourceRisk/Engine/stargazers)  
+10. **[Open Source Risk Engine (ORE)](https://github.com/OpenSourceRisk/Engine)** — [![GitHub_Stars](https://img.shields.io/github/stars/OpenSourceRisk/Engine?style=social&color=white)](https://github.com/OpenSourceRisk/Engine/stargazers)  
     *Enterprise-grade open-source framework for portfolio risk, Value-at-Risk (VaR), Stress Testing, XVA (CVA/DVA/FVA), and derivative valuation built on QuantLib.*
 
-11. **[qpsolvers](https://github.com/qpsolvers/qpsolvers)** — [![GitHub stars](https://img.shields.io/github/stars/qpsolvers/qpsolvers?style=social&color=white)](https://github.com/qpsolvers/qpsolvers/stargazers)  
+11. **[qpsolvers](https://github.com/qpsolvers/qpsolvers)** — [![GitHub_Stars](https://img.shields.io/github/stars/qpsolvers/qpsolvers?style=social&color=white)](https://github.com/qpsolvers/qpsolvers/stargazers)  
     *Unified Python interface to Quadratic Programming (QP) solvers for power dispatch, unit commitment, and constrained financial hedging.*
 
-12. **[OpenOA](https://github.com/NREL/OpenOA)** — [![GitHub stars](https://img.shields.io/github/stars/NREL/OpenOA?style=social&color=white)](https://github.com/NREL/OpenOA/stargazers)  
+12. **[OpenOA](https://github.com/NREL/OpenOA)** — [![GitHub_Stars](https://img.shields.io/github/stars/NREL/OpenOA?style=social&color=white)](https://github.com/NREL/OpenOA/stargazers)  
     *National Renewable Energy Laboratory (NREL) operational analytics library for wind and solar energy generation risk analysis.*
 
 ---
